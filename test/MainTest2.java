@@ -1,7 +1,7 @@
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
-public class MainTest {
+public class MainTest2 {
 
     @Test // test issue 2
     public void testMainPositiveNumber() {
