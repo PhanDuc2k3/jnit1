@@ -3,7 +3,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 public class MainTest {
 
-    @Test
+    @Test // test issue 2
     public void testMainPositiveNumber() {
         // Arrange
         int number = 10;
@@ -18,7 +18,7 @@ public class MainTest {
         // Ở đây chúng ta chỉ kiểm tra rằng không có lỗi nào xảy ra trong quá trình thực thi chương trình.
     }
 
-    @Test
+    @Test // test issue 2
     public void testMainNegativeNumber() {
         // Arrange
         int number = -5;
