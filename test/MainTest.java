@@ -7,7 +7,7 @@ public class MainTest {
     public void testMainPositiveNumber() {
         // Arrange
         int number = 10;
-        Main main = new Main();
+        main main = new main();
         
         // Act
         main.main(new String[]{});
@@ -22,7 +22,7 @@ public class MainTest {
     public void testMainNegativeNumber() {
         // Arrange
         int number = -5;
-        Main main = new Main();
+        main main = new main();
         
         // Act
         main.main(new String[]{});
